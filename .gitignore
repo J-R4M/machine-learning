@@ -1,0 +1,18 @@
+# Datasets
+*.csv
+*.xlsx
+data/
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sea Crits
+.env
+*.key
